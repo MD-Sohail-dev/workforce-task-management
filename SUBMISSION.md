@@ -1,7 +1,7 @@
 # ✅ Submission
 
 ## 1. 🔗 Git Repository Branch
-https://github.com/MD-Sohail-dev/workforce-management-system.git
+https://github.com/MD-Sohail-dev/workforce-task-management.git
 
 > This branch contains the complete implementation of the Backend Engineer Assignment using Spring Boot (Java 17) with Gradle, including bug fixes, new features, and in-memory storage.
 
